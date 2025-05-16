@@ -14,9 +14,9 @@ With **38+ commits**, this repository showcases my Python journey, including fou
 
 With **25+ commits**, this repository highlights my exploration of **Machine Learning** concepts. It contains Jupyter Notebook implementations of various ML algorithms, such as regression, classification, and clustering.
 
-### 3. **Deep Learning (Coming Soon)**
+### 3. [**DeepLearning-Journey**](https://github.com/YashPandey1405/DeepLearning-Journey)
 
-Next on my path is **Deep Learning**. I plan to delve into artificial neural networks, CNNs, RNNs, and more. Stay tuned for more updates as I continue this journey.
+With **structured notebooks and notes**, this repository captures my journey through **Deep Learning** concepts, featuring hands-on implementations of neural networks, CNNs, RNNs, and more.
 
 ## 📚 Handwritten Notes
 
