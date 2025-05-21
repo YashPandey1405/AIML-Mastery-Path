@@ -12,9 +12,14 @@ With **38+ commits**, this repository showcases my Python journey, including fou
 
 ### 2. [**ML-Fundamentals**](https://github.com/YashPandey1405/ML-Fundamentals)
 
-With **25+ commits**, this repository highlights my exploration of **Machine Learning** concepts. It contains Jupyter Notebook implementations of various ML algorithms, such as regression, classification, and clustering.
+With **25+ commits**, this repository highlights my exploration of **Machine Learning** concepts. It contains Jupyter Notebook implementations of
+various ML algorithms, such as regression, classification, and clustering.
 
-### 3. [**DeepLearning-Journey**](https://github.com/YashPandey1405/DeepLearning-Journey)
+### 3. [**Sensor-Fault-Detection-ML**](https://github.com/YashPandey1405/Sensor-Fault-Detection-ML)
+
+An **end-to-end machine learning project** focused on detecting faults in semiconductor wafers using **sensor data from 59 features**. Includes a complete ML pipeline with data processing, model training, evaluation, and a future plan for **deployment on AWS**.
+
+### 4. [**DeepLearning-Journey**](https://github.com/YashPandey1405/DeepLearning-Journey)
 
 With **structured notebooks and notes**, this repository captures my journey through **Deep Learning** concepts, featuring hands-on implementations of neural networks, CNNs, RNNs, and more.
 
